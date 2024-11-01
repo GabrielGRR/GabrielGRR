@@ -8,7 +8,7 @@ Graduando em Engenharia da Computação e Técnico formado pelo CEFET-MG. Sou De
 
 ## 🚀 Minhas Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,bootstrap,sqlite,postgres,py,raspberrypi)](https://skillicons.dev)
 
 c
 C++ Arduino
