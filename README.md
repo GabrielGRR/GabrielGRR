@@ -1,11 +1,11 @@
-## 💜 Olá, meu nome é Gabriel Guimarães!
+## 💜 Hello, my name is Gabriel Guimarães!
 
-Desenvolvedor Python | Flask | SQL | JavaScript | Scrum
+Software Engineer | Python | Flask | SQL | JavaScript | Scrum
 
-Graduando em Engenharia da Computação e Técnico formado pelo CEFET-MG. Sou Desenvolvedor Back-end em Python com conhecimento nas linguagens JavaScript, C e C++, também sou apaixonado por tecnologia como impressão 3D e Arduino (C++).
+Graduating in Computer Engineering and Industrial Mechanics Technician. I'm a Python software engineer with knowledge in C and C++ languages, I'm also passionate about technology such as 3D printing and Arduino (C++).
 
 ---
 
-## 🚀 Minhas Skills
+## 🚀 My skills
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,sqlite,c,html,css,bootstrap,cpp,postgres,raspberrypi)](https://skillicons.dev)
