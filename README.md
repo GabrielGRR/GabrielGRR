@@ -8,4 +8,4 @@ Graduating in Computer Engineering and Industrial Mechanics Technician. I'm a Py
 
 ## 🚀 My skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,sqlite,c,html,css,bootstrap,cpp,postgres,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,sqlite,c,html,css,bootstrap,cpp,mysql,raspberrypi)](https://skillicons.dev)
