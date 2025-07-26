@@ -1,6 +1,6 @@
 ## 💜 Hello, my name is Gabriel Guimarães!
 
-Data Analyst | Data Engineer | Python | BigQuery | SQL | Looker BI | Selenium | Spark | Scrum
+Data Engineer | Data Analyst | RPA | Python | BigQuery | SQL | Looker BI | Selenium | Spark | Scrum
 
 Graduating in Computer Engineering and Industrial Mechanics Technician. I'm a Data Analyst/Engineer with knowledge in Python, C and C++ languages, I'm also passionate about technology such as 3D printing and Arduino (C++).
 
