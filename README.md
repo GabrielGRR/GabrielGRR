@@ -1,8 +1,8 @@
 ## 💜 Hello, my name is Gabriel Guimarães!
 
-Data Engineer | Data Analyst | RPA | Python | BigQuery | SQL | Looker BI | Selenium | Spark | Scrum
+Data Engineer | Airflow | AWS | SQL | BigQuery | RPA | Python | Looker BI | Selenium 
 
-Computer Engineer and Industrial Mechanics Technician. I'm a Data Engineer with knowledge in Python, C and C++ languages, I'm also passionate about technology such as 3D printing and Arduino (C++).
+Computer Engineer and Industrial Mechanics Technician. I'm a Data Engineer focused on the development and maintenance of cloud-based data pipelines, with orchestration using Apache Airflow and relational modeling in PostgreSQL, transforming raw data into business insights. I'm also passionate about technology such as 3D printing, Arduino and RaspberryPy.
 
 ---
 
