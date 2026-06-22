@@ -3,6 +3,7 @@
 Data Engineer | Airflow | AWS | SQL | BigQuery | RPA | Python | Looker BI | Selenium 
 
 Computer Engineer and Industrial Mechanics Technician. I'm a Data Engineer focused on the development and maintenance of cloud-based data pipelines, with orchestration using Apache Airflow and relational modeling in PostgreSQL, transforming raw data into business insights. 
+
 I'm also passionate about technology such as 3D printing, Arduino and RaspberryPy.
 
 ---
