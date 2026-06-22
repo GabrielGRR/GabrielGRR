@@ -2,13 +2,13 @@
 
 Data Engineer | Data Analyst | RPA | Python | BigQuery | SQL | Looker BI | Selenium | Spark | Scrum
 
-Graduating in Computer Engineering and Industrial Mechanics Technician. I'm a Data Analyst/Engineer with knowledge in Python, C and C++ languages, I'm also passionate about technology such as 3D printing and Arduino (C++).
+Computer Engineer and Industrial Mechanics Technician. I'm a Data Engineer with knowledge in Python, C and C++ languages, I'm also passionate about technology such as 3D printing and Arduino (C++).
 
 ---
 
 ## 🚀 My skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,selenium,anaconda,gcp,sqlite,flask,js,c,html,css,bootstrap,cpp,mysql,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,aws,postgres,docker,selenium,gcp,sqlite,flask,c,arduino,raspberrypi)](https://skillicons.dev)
 
 ---
 
